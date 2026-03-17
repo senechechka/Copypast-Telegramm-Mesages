@@ -27,6 +27,6 @@ main/config.py
 
 
 Цена платной версии - 5$ / 250⭐
-За покупкой писать в тг: @vuaaeoeoeoeoeopoppypypypruejdbcb
+📲 [За покупкой писать сюда](https://t.me/vuaaeoeoeoeoeopoppypypypruejdbcb)
 
 
