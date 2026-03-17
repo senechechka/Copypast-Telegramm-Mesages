@@ -15,10 +15,14 @@
 <img width="458" height="468" alt="image" src="https://github.com/user-attachments/assets/63def030-90b0-4216-ad03-44fafa45a8d9" />
 <img width="462" height="472" alt="image" src="https://github.com/user-attachments/assets/250e45d7-825a-4ea0-b2b9-e32269ab40fe" />
 
+
 Пример работы копипастинга. (сообщений приходить до секунды, копирует все кроме видео и гифок)
 
+
 TARGET_CHAT в конфиге - тгк в который будут приходить сообщения.
+
 SOURSE_CHAT в конфиге - тгк с которого будут копироваться сообщения.
+
 
 Цена платной версии - 5$ / 250⭐
 
